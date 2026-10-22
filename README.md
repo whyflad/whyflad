@@ -7,5 +7,5 @@ My research interests include:
 
 - ☀️ Photosynthetic microorganisms
 - 🔬 Advanced imaging and structural biology
-- 🛠️ Biotechnology and tool development
-- 🤖 Artificial intelligence for biological research
+- 🛠️ Bioengineering and tool development
+- 🤖 AI for biological research
